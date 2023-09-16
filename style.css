@@ -44,7 +44,7 @@
 .bgimage {
   
   height:100vh; 
-  background: url('images/heroImage2.jpg');
+  background: url('heroImage2.jpg');
   background-size: cover; 
   position:relative;
   padding: 0;
